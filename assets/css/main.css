@@ -1147,3 +1147,7 @@ h3 {
 #depoimentos img{
   width:100%;
 }
+
+.mais:before {
+  content: '+';
+}

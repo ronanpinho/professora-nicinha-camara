@@ -63,3 +63,7 @@ body,html{overflow-x:hidden}body,h1,h2,h3,h4{font-family:"Source Sans Pro",sans-
 #depoimentos img{
     width:100%;
 }
+
+.mais:before {
+    content: '+';
+}
