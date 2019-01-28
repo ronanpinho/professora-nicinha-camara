@@ -1055,7 +1055,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 
 /* Footer Area Start */
 .footer-area {
-  background: #1C1C20;
+  background: #b20008;
 }
 
 .footer-area .footer-text p {
@@ -1065,7 +1065,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 }
 
 .footer-area .footer-text p a {
-  color: #b20008;
+  color: #fff;
 }
 
 .footer-area .footer-text .nav-inline .nav-link {
