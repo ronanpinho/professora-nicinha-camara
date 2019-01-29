@@ -43,30 +43,6 @@
         openedSymbol: '<i class="icon-arrow-down"></i>',
       });
 
-      /* WOW Scroll Spy
-    ========================================================*/
-     var wow = new WOW({
-      //disabled for mobile
-        mobile: false
-    });
-
-    wow.init();
-
-    /* Nivo Lightbox 
-    ========================================================*/
-    $('.lightbox').nivoLightbox({
-        effect: 'fadeScale',
-        keyboardNav: true,
-      });
-
-    /* Counter
-    ========================================================*/
-    $('.counterUp').counterUp({
-     delay: 10,
-     time: 1000
-    });
-
-
     /* Back Top Link active
     ========================================================*/
       var offset = 200;
