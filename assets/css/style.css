@@ -14258,11 +14258,6 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
 
 }
 
-iframe {
-    min-height: 80vw;
-}
-
-
 .modal-header .close {
     padding: 1rem;
     float: right;
